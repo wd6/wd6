@@ -6,7 +6,7 @@
 
 
 ![wd6's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wd6&layout=compact&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd6)](https://github.com/wd6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wd6&layout=compact)](https://github.com/wd6/github-readme-stats)
 
 
 - 🔭 I’m currently working as a data analyst
